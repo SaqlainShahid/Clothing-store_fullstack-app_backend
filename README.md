@@ -1,7 +1,7 @@
 
 # 🛍️ Elevate | Modern E-Commerce Platform
 
-![Project Banner](./1.png)
+![Project Banner](https://github.com/SaqlainShahid/Clothing-store_fullstack-app_frontend/blob/main/1.png)
 
 A **production-ready** MERN stack e-commerce solution with role-based access control, secure authentication, and comprehensive inventory management.
 
